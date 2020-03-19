@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\inc -I..\..\..\Libraries\CMSIS\Device\ST\STM32F10x\Include -I..\..\..\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\..\..\Libraries\STM32_USB_OTG_Driver\inc -I..\..\..\Libraries\STM32_USB_HOST_Library\Core\inc -I..\..\..\Libraries\STM32_USB_HOST_Library\Class\MSC\inc -I..\..\..\Utilities\STM32_EVAL -I..\..\..\Utilities\STM32_EVAL\Common -I..\..\..\Utilities\STM32_EVAL\STM3210C_EVAL -I..\..\..\Utilities\Third_Party\fat_fs\inc 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -DUSE_STM3210C_EVAL -DUSE_USB_OTG_FS -o ".\…Ò÷€IV∫≈\stm32fxxx_it.o" --omf_browse ".\…Ò÷€IV∫≈\stm32fxxx_it.crf" --depend ".\…Ò÷€IV∫≈\stm32fxxx_it.d" "..\src\stm32fxxx_it.c"
