@@ -1,1 +1,1 @@
-# MKS-TFT24-28-32-Firmware
+# MKS-TFT28-32-Firmware
